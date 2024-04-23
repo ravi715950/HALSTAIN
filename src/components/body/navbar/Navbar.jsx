@@ -19,8 +19,8 @@ const Navbar=()=> {
             <div className="row bg-white border-2 d-none d-lg-flex">
               <div className="col-lg-7 text-left">
                 <ul className="d-inline-flex align-items-center py-2 px-4 elite">
-                  <li>eliterealty@example.com</li>
-                   <li>+9900000678</li>
+                  <li>ravi715950@gmail.com</li>
+                   <li>+917037032555</li>
                    <li>Mon-Fri 9am-5pm</li>
                 </ul>
               </div>

@@ -9,9 +9,11 @@ import ContactUS from "./components/contactUs/ContactUS";
 
 function App() {
   return (
-    <>
-      <BrowserRouter>
-        {/* <Navbar /> */}
+    <div>
+    <h1 style={{color:"#000"}}>hello</h1>
+
+      {/* <BrowserRouter>
+        <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/aboutus" element={<AboutUs />} />
@@ -19,9 +21,9 @@ function App() {
           <Route path="/contactus" element={<ContactUS />} />
          
         </Routes>
-        {/* <Footer /> */}
-      </BrowserRouter>
-    </>
+        <Footer />
+      </BrowserRouter> */}
+    </div>
   );
 }
 
